@@ -29,8 +29,6 @@ Excel Workbooks contain all the data extraction, cleaning, modeling, and analysi
 MS Word Document: Demonstrates proficiency in MS Word. 
 To explore the project, you can download the Excel workbooks and the attached MS Word document. The Excel files are organized to guide you through the data extraction, cleaning, modeling, and analysis process. 
 
-Contributions are welcome. If you have suggestions for improvements or additional features, please submit a pull request or open an issue in the repository.
-
-If you have any questions or need more information, please get in touch with me through GitHub.
+If you have any questions or need more information, please get in touch with me through LinkedIn.
 
 Thank you for exploring my Excel project. I hope you find the analysis and visualizations insightful and valuable.
